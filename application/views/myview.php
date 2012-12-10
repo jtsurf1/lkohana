@@ -1,0 +1,1 @@
+<p>If you see me, the view loaded.</p>
